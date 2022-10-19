@@ -12,9 +12,8 @@ headers = {
 
 response = requests.request("GET", url, headers=headers, data=payload, verify=False)
 
-print(response.text)
-
-json_string = response.text
+pretty_json = json.loads(response.text)
+print (json.dumps(pretty_json, indent=2))
 
 with open('facilities/facilities2.json', 'w', encoding='utf-8') as outfile:
-    json.dump(json_string, outfile, ensure_ascii=False, indent=4)
+    json.dump(pretty_json, outfile, ensure_ascii=False, indent=4)
