@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import json
 
-url = "https://search.k8s.srz.els.loc/api/geo/v2/institutions/getData"
+url = "https://search.k8s.srz.els.loc/api/geo/v2/institutions/getFeatures"
 
 payload={}
 headers = {
@@ -15,5 +15,5 @@ response = requests.request("GET", url, headers=headers, data=payload, verify=Fa
 pretty_json = json.loads(response.text)
 print (json.dumps(pretty_json, indent=2))
 
-with open('facilities/facilities2.json', 'w', encoding='utf-8') as outfile:
+with open('facilities/features.json', 'w', encoding='utf-8') as outfile:
     json.dump(pretty_json, outfile, ensure_ascii=False, indent=4)
