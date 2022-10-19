@@ -6,7 +6,7 @@ url = "https://search.k8s.srz.els.loc/api/geo/v2/institutions/getData"
 
 payload={}
 headers = {
-  'Cookie': 'ingresscookie-rescad=1666089565.541.25629.727648'
+  'Cookie': 'ingresscookie-rescad=1666089565.541.25629.727648',
   'Content-Type': 'application/json',
 }
 
@@ -16,5 +16,5 @@ print(response.text)
 
 json_string = response.text
 
-with open('facilities/facilities.json', 'w', encoding='utf-8') as outfile:
+with open('facilities/facilities2.json', 'w', encoding='utf-8') as outfile:
     json.dump(json_string, outfile, ensure_ascii=False, indent=4)
