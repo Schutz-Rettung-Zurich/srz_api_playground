@@ -26,982 +26,6 @@
                 },
                 "arrival": null,
                 "arrivalTimestamp": null,
-                "departure": "2022-10-20T15:06:00+0200",
-                "departureTimestamp": 1666271160,
-                "delay": null,
-                "platform": "1",
-                "prognosis": {
-                    "platform": null,
-                    "arrival": null,
-                    "departure": null,
-                    "capacity1st": null,
-                    "capacity2nd": null
-                },
-                "realtimeAvailability": null,
-                "location": {
-                    "id": "8503225",
-                    "name": null,
-                    "score": null,
-                    "coordinate": {
-                        "type": "WGS84",
-                        "x": null,
-                        "y": null
-                    },
-                    "distance": null
-                }
-            },
-            "name": "018257",
-            "category": "S",
-            "subcategory": null,
-            "categoryCode": null,
-            "number": "2",
-            "operator": "SBB",
-            "to": "Ziegelbrücke",
-            "passList": [
-                {
-                    "station": {
-                        "id": "8503225",
-                        "name": null,
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": null,
-                            "y": null
-                        },
-                        "distance": null
-                    },
-                    "arrival": null,
-                    "arrivalTimestamp": null,
-                    "departure": "2022-10-20T15:06:00+0200",
-                    "departureTimestamp": 1666271160,
-                    "delay": null,
-                    "platform": "1",
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503225",
-                        "name": null,
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": null,
-                            "y": null
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503006",
-                        "name": "Zürich Oerlikon",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.411526,
-                            "y": 8.54414
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:10:00+0200",
-                    "arrivalTimestamp": 1666271400,
-                    "departure": "2022-10-20T15:11:00+0200",
-                    "departureTimestamp": 1666271460,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503006",
-                        "name": "Zürich Oerlikon",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.411526,
-                            "y": 8.54414
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503000",
-                        "name": "Zürich HB",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.377847,
-                            "y": 8.540502
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:16:00+0200",
-                    "arrivalTimestamp": 1666271760,
-                    "departure": "2022-10-20T15:17:00+0200",
-                    "departureTimestamp": 1666271820,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503000",
-                        "name": "Zürich HB",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.377847,
-                            "y": 8.540502
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503011",
-                        "name": "Zürich Wiedikon",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.371477,
-                            "y": 8.523488
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:19:00+0200",
-                    "arrivalTimestamp": 1666271940,
-                    "departure": "2022-10-20T15:19:00+0200",
-                    "departureTimestamp": 1666271940,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503011",
-                        "name": "Zürich Wiedikon",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.371477,
-                            "y": 8.523488
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503010",
-                        "name": "Zürich Enge",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.364095,
-                            "y": 8.530818
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:23:00+0200",
-                    "arrivalTimestamp": 1666272180,
-                    "departure": "2022-10-20T15:24:00+0200",
-                    "departureTimestamp": 1666272240,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503010",
-                        "name": "Zürich Enge",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.364095,
-                            "y": 8.530818
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503202",
-                        "name": "Thalwil",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.29598,
-                            "y": 8.564768
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:30:00+0200",
-                    "arrivalTimestamp": 1666272600,
-                    "departure": "2022-10-20T15:31:00+0200",
-                    "departureTimestamp": 1666272660,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503202",
-                        "name": "Thalwil",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.29598,
-                            "y": 8.564768
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503204",
-                        "name": "Horgen",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.261479,
-                            "y": 8.596917
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:35:00+0200",
-                    "arrivalTimestamp": 1666272900,
-                    "departure": "2022-10-20T15:35:00+0200",
-                    "departureTimestamp": 1666272900,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503204",
-                        "name": "Horgen",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.261479,
-                            "y": 8.596917
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503206",
-                        "name": "Wädenswil",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.229306,
-                            "y": 8.675218
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:41:00+0200",
-                    "arrivalTimestamp": 1666273260,
-                    "departure": "2022-10-20T15:42:00+0200",
-                    "departureTimestamp": 1666273320,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503206",
-                        "name": "Wädenswil",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.229306,
-                            "y": 8.675218
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503207",
-                        "name": "Richterswil",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.208373,
-                            "y": 8.707486
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:45:00+0200",
-                    "arrivalTimestamp": 1666273500,
-                    "departure": "2022-10-20T15:45:00+0200",
-                    "departureTimestamp": 1666273500,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503207",
-                        "name": "Richterswil",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.208373,
-                            "y": 8.707486
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503209",
-                        "name": "Pfäffikon SZ",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.202994,
-                            "y": 8.778136
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:51:00+0200",
-                    "arrivalTimestamp": 1666273860,
-                    "departure": "2022-10-20T15:51:00+0200",
-                    "departureTimestamp": 1666273860,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503209",
-                        "name": "Pfäffikon SZ",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.202994,
-                            "y": 8.778136
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503211",
-                        "name": "Altendorf",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.193963,
-                            "y": 8.822901
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:54:00+0200",
-                    "arrivalTimestamp": 1666274040,
-                    "departure": "2022-10-20T15:54:00+0200",
-                    "departureTimestamp": 1666274040,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503211",
-                        "name": "Altendorf",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.193963,
-                            "y": 8.822901
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503220",
-                        "name": "Lachen SZ",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.190065,
-                            "y": 8.852718
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:57:00+0200",
-                    "arrivalTimestamp": 1666274220,
-                    "departure": "2022-10-20T15:57:00+0200",
-                    "departureTimestamp": 1666274220,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503220",
-                        "name": "Lachen SZ",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.190065,
-                            "y": 8.852718
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503221",
-                        "name": "Siebnen-Wangen",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.182664,
-                            "y": 8.900711
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T16:01:00+0200",
-                    "arrivalTimestamp": 1666274460,
-                    "departure": "2022-10-20T16:01:00+0200",
-                    "departureTimestamp": 1666274460,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503221",
-                        "name": "Siebnen-Wangen",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.182664,
-                            "y": 8.900711
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503225",
-                        "name": "Ziegelbrücke",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.136149,
-                            "y": 9.06005
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T16:11:00+0200",
-                    "arrivalTimestamp": 1666275060,
-                    "departure": null,
-                    "departureTimestamp": null,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503225",
-                        "name": "Ziegelbrücke",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.136149,
-                            "y": 9.06005
-                        },
-                        "distance": null
-                    }
-                }
-            ],
-            "capacity1st": null,
-            "capacity2nd": null
-        },
-        {
-            "stop": {
-                "station": {
-                    "id": "8503016",
-                    "name": "Zürich Flughafen",
-                    "score": null,
-                    "coordinate": {
-                        "type": "WGS84",
-                        "x": 47.450379,
-                        "y": 8.562398
-                    },
-                    "distance": null
-                },
-                "arrival": null,
-                "arrivalTimestamp": null,
-                "departure": "2022-10-20T15:08:00+0200",
-                "departureTimestamp": 1666271280,
-                "delay": null,
-                "platform": "3",
-                "prognosis": {
-                    "platform": null,
-                    "arrival": null,
-                    "departure": null,
-                    "capacity1st": null,
-                    "capacity2nd": null
-                },
-                "realtimeAvailability": null,
-                "location": {
-                    "id": "8501026",
-                    "name": null,
-                    "score": null,
-                    "coordinate": {
-                        "type": "WGS84",
-                        "x": null,
-                        "y": null
-                    },
-                    "distance": null
-                }
-            },
-            "name": "000724",
-            "category": "IC",
-            "subcategory": null,
-            "categoryCode": null,
-            "number": "1",
-            "operator": "SBB",
-            "to": "Genève-Aéroport",
-            "passList": [
-                {
-                    "station": {
-                        "id": "8501026",
-                        "name": null,
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": null,
-                            "y": null
-                        },
-                        "distance": null
-                    },
-                    "arrival": null,
-                    "arrivalTimestamp": null,
-                    "departure": "2022-10-20T15:08:00+0200",
-                    "departureTimestamp": 1666271280,
-                    "delay": null,
-                    "platform": "3",
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8501026",
-                        "name": null,
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": null,
-                            "y": null
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503006",
-                        "name": "Zürich Oerlikon",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.411526,
-                            "y": 8.54414
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:13:00+0200",
-                    "arrivalTimestamp": 1666271580,
-                    "departure": "2022-10-20T15:14:00+0200",
-                    "departureTimestamp": 1666271640,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503006",
-                        "name": "Zürich Oerlikon",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.411526,
-                            "y": 8.54414
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8503000",
-                        "name": "Zürich HB",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.377847,
-                            "y": 8.540502
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T15:21:00+0200",
-                    "arrivalTimestamp": 1666272060,
-                    "departure": "2022-10-20T15:32:00+0200",
-                    "departureTimestamp": 1666272720,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8503000",
-                        "name": "Zürich HB",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.377847,
-                            "y": 8.540502
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "0000132",
-                        "name": "Bahn-2000-Strecke",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.196371,
-                            "y": 7.689367
-                        },
-                        "distance": null
-                    },
-                    "arrival": null,
-                    "arrivalTimestamp": null,
-                    "departure": null,
-                    "departureTimestamp": null,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "0000132",
-                        "name": "Bahn-2000-Strecke",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 47.196371,
-                            "y": 7.689367
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8507000",
-                        "name": "Bern",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.948832,
-                            "y": 7.439136
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T16:28:00+0200",
-                    "arrivalTimestamp": 1666276080,
-                    "departure": "2022-10-20T16:34:00+0200",
-                    "departureTimestamp": 1666276440,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8507000",
-                        "name": "Bern",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.948832,
-                            "y": 7.439136
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8504100",
-                        "name": "Fribourg/Freiburg",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.803151,
-                            "y": 7.151052
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T16:56:00+0200",
-                    "arrivalTimestamp": 1666277760,
-                    "departure": "2022-10-20T16:57:00+0200",
-                    "departureTimestamp": 1666277820,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8504100",
-                        "name": "Fribourg/Freiburg",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.803151,
-                            "y": 7.151052
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8501120",
-                        "name": "Lausanne",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.516795,
-                            "y": 6.629087
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T17:40:00+0200",
-                    "arrivalTimestamp": 1666280400,
-                    "departure": "2022-10-20T17:43:00+0200",
-                    "departureTimestamp": 1666280580,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8501120",
-                        "name": "Lausanne",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.516795,
-                            "y": 6.629087
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8501008",
-                        "name": "Genève",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.210228,
-                            "y": 6.142435
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T18:18:00+0200",
-                    "arrivalTimestamp": 1666282680,
-                    "departure": "2022-10-20T18:20:00+0200",
-                    "departureTimestamp": 1666282800,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8501008",
-                        "name": "Genève",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.210228,
-                            "y": 6.142435
-                        },
-                        "distance": null
-                    }
-                },
-                {
-                    "station": {
-                        "id": "8501026",
-                        "name": "Genève-Aéroport",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.232556,
-                            "y": 6.111968
-                        },
-                        "distance": null
-                    },
-                    "arrival": "2022-10-20T18:27:00+0200",
-                    "arrivalTimestamp": 1666283220,
-                    "departure": null,
-                    "departureTimestamp": null,
-                    "delay": null,
-                    "platform": null,
-                    "prognosis": {
-                        "platform": null,
-                        "arrival": null,
-                        "departure": null,
-                        "capacity1st": null,
-                        "capacity2nd": null
-                    },
-                    "realtimeAvailability": null,
-                    "location": {
-                        "id": "8501026",
-                        "name": "Genève-Aéroport",
-                        "score": null,
-                        "coordinate": {
-                            "type": "WGS84",
-                            "x": 46.232556,
-                            "y": 6.111968
-                        },
-                        "distance": null
-                    }
-                }
-            ],
-            "capacity1st": null,
-            "capacity2nd": null
-        },
-        {
-            "stop": {
-                "station": {
-                    "id": "8503016",
-                    "name": "Zürich Flughafen",
-                    "score": null,
-                    "coordinate": {
-                        "type": "WGS84",
-                        "x": 47.450379,
-                        "y": 8.562398
-                    },
-                    "distance": null
-                },
-                "arrival": null,
-                "arrivalTimestamp": null,
                 "departure": "2022-10-20T15:13:00+0200",
                 "departureTimestamp": 1666271580,
                 "delay": null,
@@ -17433,6 +16457,564 @@
                             "type": "WGS84",
                             "x": 47.136149,
                             "y": 9.06005
+                        },
+                        "distance": null
+                    }
+                }
+            ],
+            "capacity1st": null,
+            "capacity2nd": null
+        },
+        {
+            "stop": {
+                "station": {
+                    "id": "8503016",
+                    "name": "Zürich Flughafen",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.450379,
+                        "y": 8.562398
+                    },
+                    "distance": null
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2022-10-20T17:08:00+0200",
+                "departureTimestamp": 1666278480,
+                "delay": null,
+                "platform": "3",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": null,
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8501026",
+                    "name": null,
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": null,
+                        "y": null
+                    },
+                    "distance": null
+                }
+            },
+            "name": "000728",
+            "category": "IC",
+            "subcategory": null,
+            "categoryCode": null,
+            "number": "1",
+            "operator": "SBB",
+            "to": "Genève-Aéroport",
+            "passList": [
+                {
+                    "station": {
+                        "id": "8501026",
+                        "name": null,
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": null,
+                            "y": null
+                        },
+                        "distance": null
+                    },
+                    "arrival": null,
+                    "arrivalTimestamp": null,
+                    "departure": "2022-10-20T17:08:00+0200",
+                    "departureTimestamp": 1666278480,
+                    "delay": null,
+                    "platform": "3",
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8501026",
+                        "name": null,
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": null,
+                            "y": null
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8503006",
+                        "name": "Zürich Oerlikon",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.411526,
+                            "y": 8.54414
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T17:13:00+0200",
+                    "arrivalTimestamp": 1666278780,
+                    "departure": "2022-10-20T17:14:00+0200",
+                    "departureTimestamp": 1666278840,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8503006",
+                        "name": "Zürich Oerlikon",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.411526,
+                            "y": 8.54414
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8503000",
+                        "name": "Zürich HB",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.377847,
+                            "y": 8.540502
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T17:21:00+0200",
+                    "arrivalTimestamp": 1666279260,
+                    "departure": "2022-10-20T17:32:00+0200",
+                    "departureTimestamp": 1666279920,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8503000",
+                        "name": "Zürich HB",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.377847,
+                            "y": 8.540502
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "0000132",
+                        "name": "Bahn-2000-Strecke",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.196371,
+                            "y": 7.689367
+                        },
+                        "distance": null
+                    },
+                    "arrival": null,
+                    "arrivalTimestamp": null,
+                    "departure": null,
+                    "departureTimestamp": null,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "0000132",
+                        "name": "Bahn-2000-Strecke",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.196371,
+                            "y": 7.689367
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8507000",
+                        "name": "Bern",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.948832,
+                            "y": 7.439136
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T18:28:00+0200",
+                    "arrivalTimestamp": 1666283280,
+                    "departure": "2022-10-20T18:34:00+0200",
+                    "departureTimestamp": 1666283640,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8507000",
+                        "name": "Bern",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.948832,
+                            "y": 7.439136
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8504100",
+                        "name": "Fribourg/Freiburg",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.803151,
+                            "y": 7.151052
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T18:56:00+0200",
+                    "arrivalTimestamp": 1666284960,
+                    "departure": "2022-10-20T18:57:00+0200",
+                    "departureTimestamp": 1666285020,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8504100",
+                        "name": "Fribourg/Freiburg",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.803151,
+                            "y": 7.151052
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8501120",
+                        "name": "Lausanne",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.516795,
+                            "y": 6.629087
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T19:40:00+0200",
+                    "arrivalTimestamp": 1666287600,
+                    "departure": "2022-10-20T19:43:00+0200",
+                    "departureTimestamp": 1666287780,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8501120",
+                        "name": "Lausanne",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.516795,
+                            "y": 6.629087
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8501008",
+                        "name": "Genève",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.210228,
+                            "y": 6.142435
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T20:18:00+0200",
+                    "arrivalTimestamp": 1666289880,
+                    "departure": "2022-10-20T20:20:00+0200",
+                    "departureTimestamp": 1666290000,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8501008",
+                        "name": "Genève",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.210228,
+                            "y": 6.142435
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8501026",
+                        "name": "Genève-Aéroport",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.232556,
+                            "y": 6.111968
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T20:27:00+0200",
+                    "arrivalTimestamp": 1666290420,
+                    "departure": null,
+                    "departureTimestamp": null,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8501026",
+                        "name": "Genève-Aéroport",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 46.232556,
+                            "y": 6.111968
+                        },
+                        "distance": null
+                    }
+                }
+            ],
+            "capacity1st": null,
+            "capacity2nd": null
+        },
+        {
+            "stop": {
+                "station": {
+                    "id": "8503016",
+                    "name": "Zürich Flughafen",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.450379,
+                        "y": 8.562398
+                    },
+                    "distance": null
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2022-10-20T17:13:00+0200",
+                "departureTimestamp": 1666278780,
+                "delay": null,
+                "platform": "1",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": null,
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8506302",
+                    "name": null,
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": null,
+                        "y": null
+                    },
+                    "distance": null
+                }
+            },
+            "name": "000527",
+            "category": "IC",
+            "subcategory": null,
+            "categoryCode": null,
+            "number": "5",
+            "operator": "SBB",
+            "to": "St. Gallen",
+            "passList": [
+                {
+                    "station": {
+                        "id": "8506302",
+                        "name": null,
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": null,
+                            "y": null
+                        },
+                        "distance": null
+                    },
+                    "arrival": null,
+                    "arrivalTimestamp": null,
+                    "departure": "2022-10-20T17:13:00+0200",
+                    "departureTimestamp": 1666278780,
+                    "delay": null,
+                    "platform": "1",
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8506302",
+                        "name": null,
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": null,
+                            "y": null
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8506000",
+                        "name": "Winterthur",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.500331,
+                            "y": 8.723822
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T17:27:00+0200",
+                    "arrivalTimestamp": 1666279620,
+                    "departure": "2022-10-20T17:29:00+0200",
+                    "departureTimestamp": 1666279740,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8506000",
+                        "name": "Winterthur",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.500331,
+                            "y": 8.723822
+                        },
+                        "distance": null
+                    }
+                },
+                {
+                    "station": {
+                        "id": "8506302",
+                        "name": "St. Gallen",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.42318,
+                            "y": 9.369902
+                        },
+                        "distance": null
+                    },
+                    "arrival": "2022-10-20T18:02:00+0200",
+                    "arrivalTimestamp": 1666281720,
+                    "departure": null,
+                    "departureTimestamp": null,
+                    "delay": null,
+                    "platform": null,
+                    "prognosis": {
+                        "platform": null,
+                        "arrival": null,
+                        "departure": null,
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "realtimeAvailability": null,
+                    "location": {
+                        "id": "8506302",
+                        "name": "St. Gallen",
+                        "score": null,
+                        "coordinate": {
+                            "type": "WGS84",
+                            "x": 47.42318,
+                            "y": 9.369902
                         },
                         "distance": null
                     }
